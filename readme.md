@@ -17,7 +17,7 @@
 
 ####These dependencies will be declared within our gulpfile.js and used through the project.
 
-## Passing µSpecs:
+## Passing Specs:
 | Description | Input | Output |
 | :-------------     | :------------- | :------------- |
 | **Haiku has three lines** | Input1: "nathan nathan cat" Input2: "Nathan Cat Cat Cat Cat Cat" Input3: "Nathan Nathan Nate"| Output: "Yes this is a Haiku"|

@@ -10,7 +10,6 @@ export class Haiku {
 
   countSyllables(string1, string2, string3){
   const testArray = [];
-  debugger;
   const syllableNum1 = syllable(string1.split(" "));
   const syllableNum2 = syllable(string2.split(" "));
   const syllableNum3 = syllable(string3.split(" "));
